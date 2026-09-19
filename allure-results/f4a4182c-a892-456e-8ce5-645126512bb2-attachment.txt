@@ -1,0 +1,20 @@
+[9:45:36 am][INFO]opening OrangeHRM login page
+[9:45:40 am][INFO]entering value in Username field
+[9:45:41 am][INFO]entering value in Password field
+[9:45:41 am][INFO]entering Login button
+firstname: Meera
+Nmae: Meera
+Random Email: meera_1789791342492356@example.com
+Future Date: 2026-09-26
+{
+  firstName: 'Rahul',
+  lastName: 'test',
+  username: 'rahul_1789791342496958',
+  email: 'rahul_1789791342496957@example.com',
+  password: 'Password123!'
+}
+Rahul
+test
+rahul_1789791342496957@example.com
+rahul_1789791342496958
+Password123!
